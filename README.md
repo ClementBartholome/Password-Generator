@@ -16,6 +16,10 @@ This is a solution to the [Password Generator Solo Project on Scrimba](https://s
 - CSS (Flexbox, CSS Grid, Media Queries...)
 - JavaScript
 
+### Continued development
+
+I plan to add a functionality to specify the length of the passwords generated. 
+
 ### Useful resources
 
 - [Scrimba](https://scrimba.com/dashboard#overview) - The source of this project.
