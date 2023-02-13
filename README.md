@@ -22,7 +22,7 @@ This project made me practice DOM manipulation, functions, for loops, array mani
 
 ### Continued development
 
-I plan to add a functionality to specify the length of the passwords generated. 
+DONE - I plan to add a functionality to specify the length of the passwords generated. 
 
 ### Useful resources
 
