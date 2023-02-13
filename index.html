@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Générateur de mots de passe - Projet Scrimba Clément Bartholomé</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <main>
+            <div class="container">
+                <h1>Générez un <br><span>mot de passe aléatoire</span></h1>
+                <h2>Fini les mots de passe non sécurisés</h2>
+                <button onclick="generatePassword()">Générer des mots de passe</button>
+                <hr>
+                <section class="generated-passwords">
+                    <p id="first-password"></p>
+                    <button id="copy-first-password" onclick="copyFirstPassword()">Copier le mot de passe</button>
+                    <p id="second-password"></p>
+                    <button id="copy-second-password" onclick="copySecondPassword()">Copier le mot de passe</button>
+                </section>
+            </div>
+        </main>
+        <script src="app.js"></script>
+    </body>
+</html>
