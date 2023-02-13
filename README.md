@@ -16,6 +16,10 @@ This is a solution to the [Password Generator Solo Project on Scrimba](https://s
 - CSS (Flexbox, CSS Grid, Media Queries...)
 - JavaScript
 
+### What I learned
+
+This project made me practice DOM manipulation, functions, for loops, array manipulation... It's obviously a small project, but I think it's a great step in my journey to learn JavaScript. 
+
 ### Continued development
 
 I plan to add a functionality to specify the length of the passwords generated. 
