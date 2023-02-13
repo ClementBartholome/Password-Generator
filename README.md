@@ -19,7 +19,7 @@ This is a solution to the [Password Generator Solo Project on Scrimba](https://s
 ### Useful resources
 
 - [Scrimba](https://scrimba.com/dashboard#overview) - The source of this project.
-- [freeCodeCamp](https://www.freecodecamp.org/learn/) - Another ressource to learn HTML, CSS, JS and more for free. 
+- [freeCodeCamp](https://www.freecodecamp.org/learn/) - Another ressource I used to learn HTML, CSS, JS and more for free. 
 - [W3Schools](https://www.w3schools.com/howto/howto_css_animate_buttons.asp) - The source of the  onclick "ripple" effect I added on this project.
 
 
