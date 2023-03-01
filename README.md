@@ -7,8 +7,8 @@ This is a solution to the [Password Generator Solo Project on Scrimba](https://s
 
 ### Links
 
-- Solution URL: https://clementbartholome.github.io/Password-Generator-Scrimba-Project/ 
-- Scrimba "Learn JavaScript for free" course: https://scrimba.com/learn/learnjavascript
+- [Solution URL](https://clementbartholome.github.io/Password-Generator/)
+- [Scrimba "Learn JavaScript for free" course](https://scrimba.com/learn/learnjavascript)
 
 ### Built with
 
